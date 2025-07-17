@@ -18,7 +18,7 @@ export default function Game() {
 
   useEffect(() => {
     try {
-      socket = io('http://localhost:3000', {
+      socket = io('https://tictactoe-production-461f.up.railway.app', {
         transports: ['websocket'],
         reconnectionAttempts: 3,
         timeout: 5000
