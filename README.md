@@ -39,7 +39,7 @@ This app allows two players to connect and play Tic-Tac-Toe in real-time. The ga
 
 ```bash
 git clone https://github.com/rohitp-dev/tictactoe.git
-cd tic-tac-toe-multiplayer
+cd tictactoe
 ```
 
 ---
