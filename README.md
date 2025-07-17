@@ -4,7 +4,7 @@ A real-time, browser-based Tic-Tac-Toe game that supports **two players playing 
 
 ---
 
-## 📅 Project Overview
+##  Project Overview
 
 🔗 **Live Demo:** [https://tictactoe-seven-lac.vercel.app/](https://tictactoe-seven-lac.vercel.app/)
 
@@ -12,14 +12,14 @@ This app allows two players to connect and play Tic-Tac-Toe in real-time. The ga
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
 - **Frontend:** React + Vite
 - **Backend:** Node.js + Express
 - **Real-time Engine:** Socket.IO (WebSockets)
 ---
 
-## 🎨 Implemented Features
+## Implemented Features
 
 - Real-time gameplay using **WebSockets** (via Socket.IO)
 - Assigns player as either `X` or `O`
@@ -33,7 +33,7 @@ This app allows two players to connect and play Tic-Tac-Toe in real-time. The ga
 
 ---
 
-## 🚀 How to Run This Project Locally
+## How to Run This Project Locally
 
 ### 1. Clone the Repository
 
@@ -57,7 +57,7 @@ To start the backend server:
 node server.js
 ```
 
-📌 Server runs on: `http://localhost:3000`
+Server runs on: `http://localhost:3000`
 
 ---
 
@@ -76,7 +76,7 @@ To start the frontend app:
 npm run dev
 ```
 
-📌 App opens on: `http://localhost:5173`
+App opens on: `http://localhost:5173`
 
 > Open the app in two browser windows/tabs to simulate multiplayer.
 
